@@ -13,7 +13,7 @@ const Contact = () => {
                         </p>
 
                         <div className="mt-8">
-                            <a href="#" className="text-xl font-bold text-pink-600 sm:text-2xl">contact@anishchaulagain.com.np</a>
+                            <a href="mailto:contact@anishchaulagain.com.np" className="text-xl font-bold text-pink-600 sm:text-2xl">contact@anishchaulagain.com.np</a>
 
                             <address className="mt-2 not-italic">Kaushaltar, Bhaktapur, NP 44600</address>
                         </div>
