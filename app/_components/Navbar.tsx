@@ -73,7 +73,7 @@ const Navbar = () => {
                         <div className=" sm:gap-4 hidden sm:block">
                             <a
                                 className="rounded-md bg-[#5c7af8] px-5 py-2.5 text-sm font-medium text-white shadow"
-                                href="#"
+                                href="https://drive.google.com/file/d/1Eg-3ReaQkCW7LnqsAjuqiCpuJ9U7lPyC/view"
                             >
                                 DOWNLOAD CV
                             </a>
